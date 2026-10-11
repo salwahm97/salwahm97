@@ -24,7 +24,6 @@
 ![WordPress](https://img.shields.io/badge/WordPress-%231172B7.svg?style=flat&logo=Wordpress&logoColor=white)
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-%23316192.svg?style=flat&logo=postgresql&logoColor=white)
 ![MySQL](https://img.shields.io/badge/mysql-%2300f.svg?style=flat&logo=mysql&logoColor=white)
-![Redis](https://img.shields.io/badge/redis-%23DD0031.svg?style=flat&logo=redis&logoColor=white)
 ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=flat&logo=postman&logoColor=white)
 ![XAMPP](https://img.shields.io/badge/XAMPP-FB7A24?style=flat&logo=xampp&logoColor=white)
 ![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=flat&logo=docker&logoColor=white)
@@ -42,7 +41,7 @@ class About extends Me {
   const myTechStack = {  
     "BackEnd" : { "PHP 8.x", "Symfony", "Laravel", "RESTful APIs", "Microservices" },
     "FrontEnd" : { "Angular", "TypeScript", "RxJS", "JavaScript", "HTML5", "SCSS" },
-    "Database & Cache" : { "PostgreSQL", "MySQL", "Redis" },
+    "Database & Cache" : { "PostgreSQL", "MySQL" },
     "CMS & Systems" : { "WordPress Custom Plugins", "Hooks/Filters Architecture" },
     "AI & Integrations" : { "LLM APIs", "OpenAI", "Gemini", "Prompt Engineering" },
     "Tools & Practices" : { "Git", "GitHub", "Postman", "XAMPP", "Docker", "Clean Architecture", "Legacy Refactoring" }
