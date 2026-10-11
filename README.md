@@ -51,7 +51,7 @@ class About extends Me {
 - <img src="https://github.com/salwahm97/salwahm97/blob/main/images/hyperkitty.gif?raw=true" width="20" />&nbsp;&nbsp;&nbsp; Passionate about **Legacy Code Refactoring & Scalable Database Design**. <br>
 - <img src="https://github.com/salwahm97/salwahm97/blob/main/images/message.gif?raw=true" width="25" />&nbsp;&nbsp; Ask me about **PHP/Symfony, Angular, RESTful APIs, or Invoicing Engines**. <br>
 - <img src="https://github.com/salwahm97/salwahm97/blob/main/images/letterbox.gif?raw=true" width="25" /> &nbsp; Reach out via Email: **[salwahm97@gmail.com](mailto:salwahm97@gmail.com)**<br>
-- &nbsp;&nbsp;<img src="https://github.com/SP-XD/SP-XD/blob/main/images/lightning.gif?raw=true" width="12" />&nbsp;&nbsp;&nbsp;&nbsp;Fun fact: Refactoring complex legacy code without breaking existing business logic is an art form.<br>
+- &nbsp;&nbsp;<img src="https://github.com/salwahm97/salwahm97/blob/main/images/lightning.gif?raw=true" width="12" />&nbsp;&nbsp;&nbsp;&nbsp;Fun fact: Refactoring complex legacy code without breaking existing business logic is an art form.<br>
 
 
 
