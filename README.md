@@ -48,7 +48,7 @@ class About extends Me {
 ```
 
 - <img alt="GIF" src="https://github.com/salwahm97/salwahm97/blob/main/images/Developer.gif" width="25" /> &nbsp; I’m currently focused on **Advanced Symfony Architectures & AI Integrations**. <img align="right" src="https://github.com/salwahm97/salwahm97/blob/main/images/Code.gif" alt="Code" width="15%" /><br>
-- <img src="https://github.com/salwahm97/salwahm97/blob/main/images/Code.gif?raw=true" width="25" />&nbsp;&nbsp;&nbsp; Passionate about **Legacy Code Refactoring & Scalable Database Design**. <br>
+- <img src="https://github.com/salwahm97/salwahm97/blob/main/images/dev_working.gif?raw=true" width="25" />&nbsp;&nbsp;&nbsp; Passionate about **Legacy Code Refactoring & Scalable Database Design**. <br>
 - <img src="https://github.com/SP-XD/SP-XD/blob/main/images/message.gif?raw=true" width="25" />&nbsp;&nbsp; Ask me about **PHP/Symfony, Angular, RESTful APIs, or Invoicing Engines**. <br>
 - <img src="https://github.com/SP-XD/SP-XD/blob/main/images/letterbox.gif?raw=true" width="25" /> &nbsp; Reach out via Email: **[salwahm97@gmail.com](mailto:salwahm97@gmail.com)**<br>
 - &nbsp;&nbsp;<img src="https://github.com/SP-XD/SP-XD/blob/main/images/lightning.gif?raw=true" width="12" />&nbsp;&nbsp;&nbsp;&nbsp;Fun fact: Refactoring complex legacy code without breaking existing business logic is an art form.<br>
