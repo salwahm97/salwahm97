@@ -5,7 +5,6 @@
 ### Hi there, I'm Salwa Hammami 👋
 **Senior Full Stack Engineer** 
 
-![Totals Hits](https://komarev.com/ghpvc/?username=salwahm97&style=flat&color=orange&label=PROFILE+VIEWS)
 [![Email](https://img.shields.io/badge/Email-salwahm97@gmail.com-red?style=flat&logo=gmail)](mailto:salwahm97@gmail.com)
 [![GitHub](https://img.shields.io/badge/GitHub-salwahm97-black?style=flat&logo=github)](https://github.com/salwahm97) <br>
 </div>
