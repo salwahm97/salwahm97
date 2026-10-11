@@ -32,6 +32,8 @@
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-%23316192.svg?style=flat&logo=postgresql&logoColor=white)
 ![MySQL](https://img.shields.io/badge/mysql-%2300f.svg?style=flat&logo=mysql&logoColor=white)
 ![Redis](https://img.shields.io/badge/redis-%23DD0031.svg?style=flat&logo=redis&logoColor=white)
+![Postman](https://img.shields.io/badge/Postman-FF6C37?style=flat&logo=postman&logoColor=white)
+![XAMPP](https://img.shields.io/badge/XAMPP-FB7A24?style=flat&logo=xampp&logoColor=white)
 ![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=flat&logo=docker&logoColor=white)
 ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=flat&logo=git&logoColor=white)
 ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=flat&logo=node.js&logoColor=white)
@@ -50,6 +52,6 @@ class About extends Me {
     "Database & Cache" : { "PostgreSQL", "MySQL", "Redis" },
     "CMS & Systems" : { "WordPress Custom Plugins", "Hooks/Filters Architecture" },
     "AI & Integrations" : { "LLM APIs", "OpenAI", "Gemini", "Prompt Engineering" },
-    "Tools & Practices" : { "Git", "GitHub", "Docker", "Clean Architecture", "Legacy Refactoring" }
+    "Tools & Practices" : { "Git", "GitHub", "Postman", "XAMPP", "Docker", "Clean Architecture", "Legacy Refactoring" }
   };
 }
