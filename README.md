@@ -41,7 +41,7 @@ class About extends Me {
     "Database & Cache" : { "PostgreSQL", "MySQL" },
     "CMS & Systems" : { "WordPress Custom Plugins", "Hooks/Filters Architecture" },
     "AI & Integrations" : { "LLM APIs", "OpenAI", "Gemini", "Prompt Engineering" },
-    "Tools & Practices" : { "Git", "GitHub", "Postman", "XAMPP", "Docker", "Clean Architecture", "Legacy Refactoring" }
+    "Tools & Practices" : { "Git", "GitHub", "Postman", "XAMPP", "Nextcloud", "Clean Architecture", "Legacy Refactoring" }
   };
 }
 ```
